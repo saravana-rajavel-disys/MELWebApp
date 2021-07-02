@@ -1,0 +1,11 @@
+C:\Dev\MEL\WebApp\RepositoryLayer\bin\Debug\net5.0\RepositoryLayer.deps.json
+C:\Dev\MEL\WebApp\RepositoryLayer\bin\Debug\net5.0\RepositoryLayer.dll
+C:\Dev\MEL\WebApp\RepositoryLayer\bin\Debug\net5.0\ref\RepositoryLayer.dll
+C:\Dev\MEL\WebApp\RepositoryLayer\bin\Debug\net5.0\RepositoryLayer.pdb
+C:\Dev\MEL\WebApp\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\MEL\WebApp\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Dev\MEL\WebApp\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.AssemblyInfo.cs
+C:\Dev\MEL\WebApp\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Dev\MEL\WebApp\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.dll
+C:\Dev\MEL\WebApp\RepositoryLayer\obj\Debug\net5.0\ref\RepositoryLayer.dll
+C:\Dev\MEL\WebApp\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.pdb

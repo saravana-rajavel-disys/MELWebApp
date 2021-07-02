@@ -1,0 +1,11 @@
+C:\Dev\MEL\WebApp\Utilities\bin\Debug\net5.0\Utilities.deps.json
+C:\Dev\MEL\WebApp\Utilities\bin\Debug\net5.0\Utilities.dll
+C:\Dev\MEL\WebApp\Utilities\bin\Debug\net5.0\ref\Utilities.dll
+C:\Dev\MEL\WebApp\Utilities\bin\Debug\net5.0\Utilities.pdb
+C:\Dev\MEL\WebApp\Utilities\obj\Debug\net5.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\MEL\WebApp\Utilities\obj\Debug\net5.0\Utilities.AssemblyInfoInputs.cache
+C:\Dev\MEL\WebApp\Utilities\obj\Debug\net5.0\Utilities.AssemblyInfo.cs
+C:\Dev\MEL\WebApp\Utilities\obj\Debug\net5.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Dev\MEL\WebApp\Utilities\obj\Debug\net5.0\Utilities.dll
+C:\Dev\MEL\WebApp\Utilities\obj\Debug\net5.0\ref\Utilities.dll
+C:\Dev\MEL\WebApp\Utilities\obj\Debug\net5.0\Utilities.pdb
